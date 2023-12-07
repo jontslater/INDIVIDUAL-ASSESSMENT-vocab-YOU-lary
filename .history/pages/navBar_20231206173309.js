@@ -1,0 +1,1 @@
+import renderToDOMfrom "../utils/renderToDom";
